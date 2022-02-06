@@ -50,3 +50,8 @@ I’m also working on [Tuskify](https://tuskify.herokuapp.com) in my spare time.
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBucsan&theme=onedark&hide_border=true"/>
     </a>
 </div>
+
+<a><h2>Contact me</h2></a>
+
+<a href="https://www.linkedin.com/in/gbucsan/"><img align="left" src="https://raw.githubusercontent.com/GabrielBucsan/GabrielBucsan/main/assets/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>
+<a href="mailto:gabrielbucsan27@gmail.com"><img align="left" src="https://raw.githubusercontent.com/GabrielBucsan/GabrielBucsan/main/assets/gmail.png" alt="icon | Gmail" width="21px"/></a>
