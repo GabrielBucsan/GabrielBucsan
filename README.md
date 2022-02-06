@@ -2,7 +2,7 @@
 
 I’m a Fullstack Developer currently working at [Sankhya](https://www.sankhya.com.br) as a Solutions Architect. I have four years of experience working with fullstack web development. I'm deeply in love with technology, specially Front-End.
 
-I’m also working on [Tuskify](https://tuskify.herokuapp.com) in my spare time.
+<a href="https://tuskify.herokuapp.com"><img align="left" src="https://raw.githubusercontent.com/GabrielBucsan/GabrielBucsan/main/assets/tusk.png" alt="icon | Tuskify" width="21px"/></a>I’m also working on [Tuskify](https://tuskify.herokuapp.com) in my spare time.
 
 <a><h2>Stack</h2></a>
 
