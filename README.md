@@ -1,6 +1,6 @@
 <a><h2>About me</h2></a>
 
-I’m a Fullstack Developer currently working at [Sankhya](https://www.sankhya.com.br) as a Solutions Architect. I have six years of experience working with fullstack web development. I'm deeply in love with computer science, specially low level stuff.
+I’m a Fullstack Developer currently working at [Sankhya](https://www.sankhya.com.br) as a Software Architect. I have seven years of experience working with fullstack web development. I'm deeply in love with computer science, specially low level stuff.
 
 <a><h2>Contact me</h2></a>
 
